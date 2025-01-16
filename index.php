@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // Me cago en mis muertos
+        //hola
         ?>
     </body>
 </html>
